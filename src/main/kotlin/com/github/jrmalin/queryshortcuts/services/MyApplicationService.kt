@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jrmalin.queryshortcuts.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jrmalin.queryshortcuts.MyBundle
 
 class MyApplicationService {
 
